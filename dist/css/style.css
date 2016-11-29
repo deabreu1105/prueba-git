@@ -19,10 +19,10 @@
   width: 100%; }
 
 h1, h2, h4, h5 {
-  color: #9e9e9e; }
+  color: orange; }
 
 .header-line {
-  border: solid 2px #9e9e9e;
+  border: solid 2px orange;
   width: 50px;
   float: left; }
 
@@ -69,6 +69,6 @@ h1, h2, h4, h5 {
   font-size: 17px; }
 
 .lead {
-  color: #9e9e9e;
+  color: orange;
   font-size: 15px;
   font-weight: lighter; }
